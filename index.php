@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Warteg Bahagia - Masakan Rumahan Khas Tegal</title>
+    <title>Warteg Pak Didi- Masakan Rumahan Khas Tegal</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
@@ -103,7 +103,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Menu Item 1 -->
                 <div class="bg-white rounded-2xl shadow-md overflow-hidden food-card transition duration-300">
-                    <img src="assets/img/ayam geprek.jpeg" alt="Nasi rames komplit dengan sayur lodeh, tempe orek, telur balado, dan kerupuk di piring kayu" class="w-full h-48 object-cover">
+                    <img src="assets/img/ayam goreng laos.jpeg" alt="Nasi rames komplit dengan sayur lodeh, tempe orek, telur balado, dan kerupuk di piring kayu" class="w-full h-48 object-cover">
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2">Ayam Geprek</h3>
                         <p class="text-gray-600 mb-4">Nasi putih,ayam goreng dan sambal,timun,daun kemangi,dan tomat</p>
@@ -148,7 +148,7 @@
 
                 <!-- Menu Item 4 -->
                 <div class="bg-white rounded-2xl shadow-md overflow-hidden food-card transition duration-300">
-                    <img src="assets/img/es jeruk.jpg" alt="Gado-gado dengan sayuran segar, telur rebus, dan bumbu kacang kental dalam piring besar" class="w-full h-48 object-cover">
+                    <img src="assets/img/sego babat1.jpeg" alt="nasi,ayam goreng,sayuran,sambal,dan timun dalam piring besar" class="w-full h-48 object-cover">
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2">es jeruk</h3>
                         <p class="text-gray-600 mb-4">jeruk asli</p>
@@ -202,12 +202,12 @@
                     <img src="assets/img/makanan.jpeg" alt="Interior warteg tradisional dengan meja kayu, kursi plastik, dan display makanan dalam wadah kaca" class="rounded-2xl shadow-xl w-full">
                 </div>
                 <div class="md:w-1/2 md:pl-12">
-                    <h2 class="text-4xl font-bold text-gray-800 mb-6">Tentang Warteg Bahagia</h2>
+                    <h2 class="text-4xl font-bold text-gray-800 mb-6">Tentang Warteg Pak Didi</h2>
                     <p class="text-gray-600 mb-4 text-lg">
                         Warteg Pak Didi adalah salah salah satu jenis rumah makanan sederhana yang sangat populer di kalangan masyrakat sekitar.Warteg ini berlokasi di Malang,Candi Panggung.dengan konsep hidangan khas sederhana.Warteg pak Didi menyajian berbagai macam lauk pauk dengan harga terjangkau untuk semua kalangan
                     </p>
                     <p class="text-gray-600 mb-6 text-lg">
-                        Setiap hidangan dibuat dengan cinta dan perhatian terhadap detail, menggunakan bahan-bahan segar pilihan 
+                        Setiap hidangan dibuat dengan cinta dan perhatian dengandetail, menggunakan bahan-bahan segar pilihan 
                         untuk memastikan cita rasa yang konsisten dan memuaskan.
                     </p>
                     <div class="grid grid-cols-2 gap-4">
